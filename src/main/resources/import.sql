@@ -1,0 +1,2 @@
+INSERT INTO Account(iban, balance) VALUES ('NL72ABNA0259943259', 123.00);
+INSERT INTO Account(iban, balance) VALUES ('NL09AEGO0732934716', 0.0);
